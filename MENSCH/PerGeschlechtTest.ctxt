@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PerGeschlechtTest
+comment0.text=\r\n\ Die\ Test-Klasse\ PerGeschlechtTest.\r\n\r\n\ @author\ \ (Okan)\r\n\ @version\ (20.12.22)\r\n
+comment1.params=
+comment1.target=PerGeschlechtTest()
+comment1.text=\r\n\ Konstruktor\:\ Initialisierungen\ fuer\ jeden\ Testfall\r\n
+comment2.params=
+comment2.target=void\ geschlechtTest()
+comment2.text=\r\n\ @param\ Geschlechterliste\ soll\ w,d,m\ sein\r\n
+numComments=3

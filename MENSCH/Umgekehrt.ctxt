@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Umgekehrt
+comment0.text=\r\n\ Vergleicht\ zwei\ Personen\ anhand\ ihres\ Alters.\ \ \r\n\ @author\ Fredrik\ Winkler\r\n\ @version\ 2022\r\n
+comment1.params=compare_
+comment1.target=Umgekehrt(Comparator)
+comment1.text=\r\n\ \ Welche\ Funktion\ wollen\ sie\ umkehren\ \r\n\ \ @param\ darf\ nicht\ null\ sein\r\n
+comment2.params=a\ b
+comment2.target=int\ compare(Person,\ Person)
+comment2.text=\r\n\ khert\ um\ ,die\ gegebene\ Funktion.\ \r\n\ \ @param\ darf\ nicht\ null\ sein\r\n
+numComments=3

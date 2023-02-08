@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=Vergleicher
+comment0.text=\r\n\ Ein\ Vergleicher\ ist\ in\ der\ Lage,\ zwei\ Personen\ miteinander\ zu\ vergleichen.\r\n\ Welches\ Vergleichskriterium\ dabei\ verwendet\ wird,\ kann\ in\ jeder\ Klasse\ anders\r\n\ festgelegt\ werden.\r\n\ \r\n\ @author\ Fredrik\ Winkler,\ Axel\ Schmolitzky\r\n\ @version\ 2022\r\n
+numComments=1
