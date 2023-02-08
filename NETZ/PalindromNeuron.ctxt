@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PalindromNeuron
+comment0.text=\r\n\ Beschreibe\ hier\ die\ Klasse\ PalindromNeuron.\r\n\ \r\n\ @author\ (Dein\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=ignoriereGrossKleinSchreibung
+comment1.target=PalindromNeuron(boolean)
+comment2.params=eingang
+comment2.target=void\ eingangHinzufuegen(Neuron)
+comment3.params=text
+comment3.target=boolean\ istPalindrom(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getAusgangswert()
+numComments=5

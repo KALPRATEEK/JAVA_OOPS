@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Neuron
+comment0.text=\r\n\ Beschreibe\ hier\ das\ Interface\ Neuron.\r\n\ \ \r\n\ @author\ (Dein\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=java.lang.String\ getAusgangswert()
+numComments=2

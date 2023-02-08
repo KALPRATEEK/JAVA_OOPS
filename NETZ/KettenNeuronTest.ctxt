@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=KettenNeuronTest
+comment0.text=\r\n\ Die\ Test-Klasse\ KettenNeuronTest.\r\n\r\n\ @author\ \ (Dein\ Name)\r\n\ @version\ (Versionsnummer\ oder\ Datum)\r\n
+comment1.params=
+comment1.target=KettenNeuronTest()
+comment1.text=\r\n\ Konstruktor\:\ Initialisierungen\ fuer\ jeden\ Testfall\r\n
+comment2.params=
+comment2.target=void\ testEinfachesKettenNeuron()
+comment2.text=\r\n\ Eine\ Test-Methode\ pro\ Testfall,\ jeweils\ markiert\ mit\ @Test\r\n
+comment3.params=
+comment3.target=void\ testAufgabe()
+comment3.text=\r\n\ Eine\ Test-Methode\ pro\ Testfall,\ jeweils\ markiert\ mit\ @Test\r\n
+comment4.params=
+comment4.target=void\ testPallindromKettenNeuron()
+numComments=5

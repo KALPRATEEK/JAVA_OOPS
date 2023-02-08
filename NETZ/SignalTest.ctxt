@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SignalTest
+comment0.text=\r\n\ Die\ Test-Klasse\ SignalTest.\r\n\r\n\ @author\ \ (Dein\ Name)\r\n\ @version\ (Versionsnummer\ oder\ Datum)\r\n
+comment1.params=
+comment1.target=void\ testcons()
+comment2.params=
+comment2.target=void\ AusTest()
+comment3.params=
+comment3.target=void\ testMethode()
+comment3.text=\r\n\ Eine\ Test-Methode\ pro\ Testfall,\ jeweils\ markiert\ mit\ @Test\r\n
+numComments=4
