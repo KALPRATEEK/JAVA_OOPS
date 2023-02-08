@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=TextAnalyse
+comment0.text=\r\n\ Diese\ Klasse\ bietet\ die\ M\u00F6glichkeit,\ Texte\ zu\ analysieren.\r\n\ Sie\ dient\ als\ Einstieg\ in\ Schleifenkonstrukte\ und\ zeigt\ in\r\n\ der\ Methode\ istFrage\ beispielhaft\ einige\ Methodenaufrufe\ an\r\n\ einem\ Objekt\ der\ Klasse\ String.\r\n\ \r\n\ @author\ Prateek\ kalra\r\n\ @version\ 2022\r\n
+comment1.params=text
+comment1.target=boolean\ istFrage(java.lang.String)
+comment1.text=\r\n\ Ermittelt,\ ob\ es\ sich\ bei\ dem\ \u00FCbergebenen\ Text\ um\ eine\ Frage\r\n\ handelt.\ Eine\ Frage\ erkennt\ man\ am\ abschlie\u00DFenden\ Fragezeichen.\r\n\ \r\n\ @param\ text\ der\ zu\ analysierende\ Text\r\n\ @return\ true,\ wenn\ es\ sich\ um\ eine\ Frage\ handelt,\ false\ sonst\r\n
+comment2.params=text
+comment2.target=boolean\ istFrageKompakt(java.lang.String)
+comment2.text=\r\n\ Ermittelt,\ ob\ es\ sich\ bei\ dem\ \u00FCbergebenen\ Text\ um\ eine\ Frage\r\n\ handelt.\ Eine\ Frage\ erkennt\ man\ am\ abschlie\u00DFenden\ Fragezeichen.\r\n\ \r\n\ @param\ text\ der\ zu\ analysierende\ Text\r\n\ @return\ true,\ wenn\ es\ sich\ um\ eine\ Frage\ handelt,\ false\ sonst\r\n
+comment3.params=txt
+comment3.target=boolean\ istPalindrome(java.lang.String)
+comment3.text=\r\n\ Ermittelt,\ ob\ es\ sich\ bei\ dem\ \u00FCbergebenen\ Text\ pallindrome\ ist.\r\n\ \r\n\ \r\n\ @param\ text\ der\ zu\ analysierende\ Text\r\n\ @return\ true,\ wenn\ es\ eine\ Pallindrome\ ist.\r\n
+comment4.params=ch
+comment4.target=boolean\ istVokal(char)
+comment5.params=text
+comment5.target=int\ countVocals(java.lang.String)
+comment5.text=\r\n\ Ermittelt,\ wie\ viele\ Vowel\ gibts\ in\ einem\ gegebenen\ Text.\r\n\ \r\n\ \r\n\ @param\ String\ text,\ Text\ zu\ analysieren\r\n\ @return\ int\ ,die\ count\ des\ Vowels\ in\ dem\ Text.\r\n
+numComments=6

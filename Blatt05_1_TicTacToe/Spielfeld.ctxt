@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Spielfeld
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ Spielfeld\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=zeile\ spalte
+comment1.target=int\ gibBesitzer(int,\ int)
+comment2.params=zeile\ spalte\ spieler
+comment2.target=void\ besetzePosition(int,\ int,\ int)
+comment3.params=
+comment3.target=boolean\ istVoll()
+numComments=4

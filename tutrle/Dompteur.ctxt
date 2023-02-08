@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Dompteur
+comment0.text=\r\n\ Exemplare\ dieser\ Klasse\ veranlassen\ Turtles\ dazu,\r\n\ Spuren\ auf\ einer\ Zeichenfl\u00E4che\ zu\ hinterlassen.\r\n\r\n\ @author\ Prateek\ kalra\r\n\ @version\ 2022\r\n
+comment1.params=
+comment1.target=Dompteur()
+comment2.params=
+comment2.target=void\ start()
+comment2.text=\r\n\ 'PR1'\ auf\ die\ Zeichenfl\u00E4che\ zeichnen.\r\n
+comment3.params=ecke\ kantenLaenge
+comment3.target=void\ zeichneNEck(double,\ double)
+comment4.params=ecke\ kantenLaenge\ xPosition\ yPosition\ farbe
+comment4.target=void\ zeichneNEck(double,\ double,\ double,\ double,\ java.lang.String)
+comment5.params=ecke
+comment5.target=void\ zeichneNEck(double)
+comment6.params=ecke\ kantenLaenge\ winkel
+comment6.target=void\ zeichneRosette(double,\ double,\ double)
+numComments=7

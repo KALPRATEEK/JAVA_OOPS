@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PartyMenge
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PartyMenge\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=t
+comment1.target=void\ fuegeGeburtstagHinzu(Tag)
+comment2.params=
+comment2.target=boolean\ mindestensEinGeburtstagMehrfach()
+comment2.text=\r\n\ Gibt\ an,\ ob\ mehrere\ G\u00E4ste\ am\ gleichen\ Tag\ Geburtstag\ haben.\r\n
+comment3.params=
+comment3.target=void\ display()
+comment3.text=\r\n\ \r\n\ \ \ \ \ zeigt\ einfach\ wie\ viel\ leute\ hat\ Tag\ reingetippt.\ \r\n
+numComments=4

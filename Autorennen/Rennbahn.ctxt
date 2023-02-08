@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Rennbahn
+comment0.text=\r\n\ Beschreibe\ hier\ die\ Klasse\ Rennbahn.\r\n\ \r\n\ @author\ (Dein\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=streckenlaenge
+comment1.target=Rennbahn(int)
+comment2.params=auto
+comment2.target=void\ setzeAufSpur(Rennauto)
+comment2.text=\r\n\ @param\ Die\ Autos\ werden\ auf\ die\ Strecke\ gesetzt.\r\n\ Jedes\ Auto\ soll\ nur\ einmal\ verwendet\ werden.\ Es\ wird\ nicht\ gepr\u00FCft\r\n
+comment3.params=
+comment3.target=void\ simuliereZeitabschnitt()
+comment3.text=\r\n\ Die\ Autos\ fahren\ einmal.\r\n
+comment4.params=
+comment4.target=Rennauto\ liefereSieger()
+comment4.text=\r\n\ Ermittelt\ den\ ersten\ Sieger\r\n\ Es\ wird\ immer\ der\ Sieger\ genommen,\ der\ als\ erstes\ Auto\ auf\ die\ Rennbahn\ gesetzt\ ist.\r\n\ Es\ ist\ eine\ unfaire\ Ermittlingsmethode\r\n
+comment5.params=
+comment5.target=boolean\ hatMindEinAuto()
+comment6.params=
+comment6.target=void\ rennenDurchfuehren()
+comment7.params=auto
+comment7.target=void\ entferne(Rennauto)
+numComments=8

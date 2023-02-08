@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=BildEinleser
+comment0.text=\r\n\ Eine\ Klasse\ zum\ Einlesen\ von\ Bilddaten.\r\n\ \r\n\ @author\ Bruce\ Quig\r\n\ @author\ Michael\ Koelling\r\n\ @author\ Axel\ Schmolitzky\r\n\ @author\ Fredrik\ Winkler\r\n\ @version\ 20.\ Dezember\ 2011\r\n
+comment1.params=
+comment1.target=BildEinleser()
+comment1.text=\r\n\ Erstellt\ einen\ neuen\ BildEinleser.\r\n
+comment2.params=
+comment2.target=short[][]\ liesBilddaten()
+comment2.text=\r\n\ Lies\ eine\ GIF-Datei\ ein\ und\ liefere\ die\ Bilddaten\ als\ Array.\ Die\ Datei\ wird\ interaktiv\ vom\r\n\ Benutzer\ gewaehlt.\r\n\ \r\n\ @return\ ein\ Array,\ dass\ das\ eingelesene\ Bild\ darstellt.\r\n
+comment3.params=dateiname
+comment3.target=short[][]\ liesBilddaten(java.lang.String)
+comment3.text=\r\n\ Lies\ eine\ GIF-Datei\ ein\ und\ liefere\ die\ Bilddaten\ als\ Array.\ Der\ Name\ der\ Datei\ wird\ im\r\n\ CLASSPATH\ gesucht,\ unter\ anderem\ auch\ im\ Projekt-Verzeichnis.\r\n\ \r\n\ @param\ dateiname\ das\ Bild,\ was\ eingelesen\ werden\ soll\r\n\ @return\ ein\ Array,\ dass\ das\ eingelesene\ Bild\ darstellt.\r\n
+comment4.params=image
+comment4.target=java.awt.image.BufferedImage\ toBufferedImage(java.awt.Image)
+comment5.params=image
+comment5.target=short[][]\ toByteArray(java.awt.image.BufferedImage)
+numComments=6

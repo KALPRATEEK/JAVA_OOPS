@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Dompteur
+comment0.text=\r\n\ Exemplare\ dieser\ Klasse\ veranlassen\ Turtles\ dazu,\r\n\ Spuren\ auf\ einer\ Zeichenfl\u00E4che\ zu\ hinterlassen.\r\n\r\n\ @author\ Prateek\ \r\n\ @version\ 2022\r\n
+comment1.params=
+comment1.target=void\ start()
+comment1.text=\r\n\ 'PR1'\ auf\ die\ Zeichenfl\u00E4che\ zeichnen.\r\n
+comment2.params=t\ l\ n
+comment2.target=void\ zeichneKochKurve(Turtle,\ double,\ int)
+comment2.text=\r\n\ die\ Aufgabe\ auch\ zeigt\ dass,recusrion\ nimmt\ manchmal\ viel\ Zeit\ ,weil\ es\ sehr\ schwer\ ist\ eine\ lange\ methode\ noh\ mal\ zu\ anrufen\ innerhalb\ Methode.\r\n\ wenn\ man\ n\ \=7,\ oder\ mehr\ tippt\ ,nimmt\ die\ Machine\ sehr\ lange\ etwas\ zu\ malen.\ Daher\ Recursion\ ist\ zeitmaessig\ anspruchsvoll\ fuer\ Rechner.\r\n
+comment3.params=l\ n
+comment3.target=void\ zeichneKochKurve(double,\ int)
+comment3.text=\r\n\ fuer\ beste\ KOCHKURVE\ \=\r\n\ L\ ist\ Perfekt\ am\ 300.\r\n\ n\ soll\ maximal\ 5\ sein,\ ab\ 6\ nimmt\ es\ viel\ zeit\ zu\ malen.\r\n\ \ \ \ @param\ l\ S0ll\ nich\ negativ\ sein\ und\ am\ besten\ 300\r\n\ \ \ \ @param\ n\ S0ll\ nicht\ negativ\ sein,\ am\ besten\ zwischen\ 1\ bis\ 5.\r\n
+numComments=4
